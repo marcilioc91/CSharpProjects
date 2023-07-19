@@ -1,0 +1,7 @@
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Membros estáticos\MembrosEstaticos\MembrosEstaticos\bin\Debug\MembrosEstaticos.exe.config
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Membros estáticos\MembrosEstaticos\MembrosEstaticos\bin\Debug\MembrosEstaticos.exe
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Membros estáticos\MembrosEstaticos\MembrosEstaticos\bin\Debug\MembrosEstaticos.pdb
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\MembrosEstaticos.exe
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Membros estáticos\MembrosEstaticos\MembrosEstaticos\obj\Debug\MembrosEstaticos.pdb
