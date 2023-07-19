@@ -5,3 +5,10 @@ C:\Users\marciliocabral_forte\Documents\Estudos\C#\05-construtores-this-sobrecar
 C:\Users\marciliocabral_forte\Documents\Estudos\C#\05-construtores-this-sobrecarga-encapsulamento\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
 C:\Users\marciliocabral_forte\Documents\Estudos\C#\05-construtores-this-sobrecarga-encapsulamento\Course\Course\obj\Debug\Course.exe
 C:\Users\marciliocabral_forte\Documents\Estudos\C#\05-construtores-this-sobrecarga-encapsulamento\Course\Course\obj\Debug\Course.pdb
+D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\bin\Debug\Course.exe.config
+D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\bin\Debug\Course.exe
+D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\bin\Debug\Course.pdb
+D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\obj\Debug\Course.exe
+D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\obj\Debug\Course.pdb

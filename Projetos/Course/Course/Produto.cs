@@ -8,11 +8,23 @@ namespace Course
         public double Preco;
         public int Quantidade;
 
+        
+        public Produto()
+        {
+
+        }
         public Produto(string nome, double preco, int quantidade)
         {
             Nome = nome;
             Preco = preco;
             Quantidade = quantidade;
+        }
+
+        public Produto(string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 5; // não é obrigatório inserir valor. Se não for definido, o mesmo será 0.
         }
         public double ValorTotalEmEstoque()
         {
