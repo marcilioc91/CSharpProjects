@@ -12,3 +12,10 @@ D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\obj\Debug
 D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
 D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\obj\Debug\Course.exe
 D:\Documentos\Estudos\Tech\Udemy\CSharpProjects\Projetos\Course\Course\obj\Debug\Course.pdb
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\bin\Debug\Course.exe.config
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\bin\Debug\Course.exe
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\bin\Debug\Course.pdb
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\obj\Debug\Course.exe
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\obj\Debug\Course.pdb

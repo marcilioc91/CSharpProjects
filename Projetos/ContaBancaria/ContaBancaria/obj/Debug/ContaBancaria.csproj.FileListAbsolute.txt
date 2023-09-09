@@ -1,0 +1,7 @@
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb
