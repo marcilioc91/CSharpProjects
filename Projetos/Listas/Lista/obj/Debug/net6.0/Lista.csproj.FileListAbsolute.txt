@@ -1,0 +1,14 @@
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\bin\Debug\net6.0\Lista.exe
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\bin\Debug\net6.0\Lista.deps.json
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\bin\Debug\net6.0\Lista.runtimeconfig.json
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\bin\Debug\net6.0\Lista.dll
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\bin\Debug\net6.0\Lista.pdb
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\obj\Debug\net6.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\obj\Debug\net6.0\Lista.AssemblyInfoInputs.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\obj\Debug\net6.0\Lista.AssemblyInfo.cs
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\obj\Debug\net6.0\Lista.csproj.CoreCompileInputs.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\obj\Debug\net6.0\Lista.dll
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\obj\Debug\net6.0\refint\Lista.dll
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\obj\Debug\net6.0\Lista.pdb
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\obj\Debug\net6.0\Lista.genruntimeconfig.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Listas\Lista\obj\Debug\net6.0\ref\Lista.dll

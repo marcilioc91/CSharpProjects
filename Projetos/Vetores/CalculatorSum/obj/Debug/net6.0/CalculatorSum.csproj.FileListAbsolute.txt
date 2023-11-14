@@ -1,0 +1,14 @@
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\bin\Debug\net6.0\CalculatorSum.exe
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\bin\Debug\net6.0\CalculatorSum.deps.json
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\bin\Debug\net6.0\CalculatorSum.runtimeconfig.json
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\bin\Debug\net6.0\CalculatorSum.dll
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\bin\Debug\net6.0\CalculatorSum.pdb
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\obj\Debug\net6.0\CalculatorSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\obj\Debug\net6.0\CalculatorSum.AssemblyInfoInputs.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\obj\Debug\net6.0\CalculatorSum.AssemblyInfo.cs
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\obj\Debug\net6.0\CalculatorSum.csproj.CoreCompileInputs.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\obj\Debug\net6.0\CalculatorSum.dll
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\obj\Debug\net6.0\refint\CalculatorSum.dll
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\obj\Debug\net6.0\CalculatorSum.pdb
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\obj\Debug\net6.0\CalculatorSum.genruntimeconfig.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\CalculatorSum\obj\Debug\net6.0\ref\CalculatorSum.dll
