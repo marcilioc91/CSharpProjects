@@ -1,5 +1,4 @@
 *.suo
 *.vs
 *obj
-*bin
 *.csproj
