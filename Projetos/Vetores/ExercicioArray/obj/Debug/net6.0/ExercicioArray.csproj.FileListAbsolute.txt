@@ -1,0 +1,14 @@
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\bin\Debug\net6.0\ExercicioArray.exe
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\bin\Debug\net6.0\ExercicioArray.deps.json
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\bin\Debug\net6.0\ExercicioArray.runtimeconfig.json
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\bin\Debug\net6.0\ExercicioArray.dll
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\bin\Debug\net6.0\ExercicioArray.pdb
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\obj\Debug\net6.0\ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\obj\Debug\net6.0\ExercicioArray.AssemblyInfoInputs.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\obj\Debug\net6.0\ExercicioArray.AssemblyInfo.cs
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\obj\Debug\net6.0\ExercicioArray.csproj.CoreCompileInputs.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\obj\Debug\net6.0\ExercicioArray.dll
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\obj\Debug\net6.0\refint\ExercicioArray.dll
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\obj\Debug\net6.0\ExercicioArray.pdb
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\obj\Debug\net6.0\ExercicioArray.genruntimeconfig.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Vetores\ExercicioArray\obj\Debug\net6.0\ref\ExercicioArray.dll

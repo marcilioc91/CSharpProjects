@@ -19,3 +19,10 @@ C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\obj\De
 C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
 C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\obj\Debug\Course.exe
 C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\Course\Course\obj\Debug\Course.pdb
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Course\Course\bin\Debug\Course.exe.config
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Course\Course\bin\Debug\Course.exe
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Course\Course\bin\Debug\Course.pdb
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Course\Course\obj\Debug\Course.exe
+E:\Documentos\Estudos\Tech\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\CSharp_PracticeProjects\Projetos\Course\Course\obj\Debug\Course.pdb
