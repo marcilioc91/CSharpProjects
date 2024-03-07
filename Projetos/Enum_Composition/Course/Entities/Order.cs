@@ -10,5 +10,19 @@ namespace Course.Entities
     {
         public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
+        public List<OrderItem> orderItems { get; set; }
+        //public Client Client { get; set; }
+
+        public Order()
+        {
+        }
+
+        //public Order(DateTime moment, OrderStatus status, List<OrderItem> orderItems, Client client)
+        //{
+        //    Moment = moment;
+        //    Status = status;
+        //    this.orderItems = orderItems;
+        //    Client = client;
+        //}
     }
 }
