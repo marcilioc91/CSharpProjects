@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Enums\OrderStatus.cs" />
     <Compile Include="Entities\Order.cs" />
-    <Compile Include="Entities\OrderStatus.cs" />
+    <Compile Include="Entities\OrderItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

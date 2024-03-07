@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Course.Entities
 {
-    class OrderStatus
+    class OrderItem
     {
+        public int Quantity { get; set; }
+        public double Price { get; set; }
+
+        public OrderItem()
+        {
+        }
     }
 }
