@@ -1,0 +1,7 @@
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\MemoriasArraysListas\Course\Course\bin\Debug\Course.exe.config
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\MemoriasArraysListas\Course\Course\bin\Debug\Course.exe
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\MemoriasArraysListas\Course\Course\bin\Debug\Course.pdb
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\MemoriasArraysListas\Course\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\MemoriasArraysListas\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\MemoriasArraysListas\Course\Course\obj\Debug\Course.exe
+C:\Users\marciliocabral_forte\Documents\Estudos\C#\Projetos\MemoriasArraysListas\Course\Course\obj\Debug\Course.pdb
