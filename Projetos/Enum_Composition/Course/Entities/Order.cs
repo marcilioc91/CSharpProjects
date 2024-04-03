@@ -9,7 +9,7 @@ namespace Course.Entities
     {
         public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
-        public Client Client { get; set; }
+        public Client Client { get; set; } = new Client();
         public List<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 
         public Order()

@@ -25,7 +25,7 @@ namespace Course.Entities
 
         public override string ToString()
         {
-            return $"{Name} ({BirthDate}) - {Email}";
+            return $"{Name} ({BirthDate:dd/MM/yyyy}) - {Email}";
         }
     }
 }
