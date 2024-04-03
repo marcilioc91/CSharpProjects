@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Course.Entities
+﻿namespace Course.Entities
 {
     class OrderItem
     {
@@ -16,15 +10,21 @@ namespace Course.Entities
         {
         }
 
-        public OrderItem(int quantity, double price)
+        public OrderItem(int quantity, double price, Product product)
         {
             Quantity = quantity;
             Price = price;
+            Product = product;
         }
 
         public double Subtotal()
         {
             return Quantity * Price;
+        }
+
+        public override string ToString()
+        {
+            return $"{Product.Name}, {Price:c}, Quantity: {Quantity}, Subtotal: {Subtotal():c}";
         }
     }
 }
