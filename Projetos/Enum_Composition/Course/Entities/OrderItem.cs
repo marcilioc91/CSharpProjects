@@ -24,7 +24,7 @@
 
         public override string ToString()
         {
-            return $"{Product.Name}, {Price:c}, Quantity: {Quantity}, Subtotal: {Subtotal():c}";
+            return $"Product: {Product.Name}, Price: {Price:c}, Quantity: {Quantity}, Subtotal: {Subtotal():c}";
         }
     }
 }

@@ -16,13 +16,6 @@ namespace Course.Entities
         {
         }
 
-        public Order(DateTime moment, OrderStatus status, Client client)
-        {
-            Moment = moment;
-            Status = status;
-            Client = client;
-        }
-
         public void AddItem(OrderItem orderItem)
         {
             OrderItems.Add(orderItem);
@@ -45,17 +38,17 @@ namespace Course.Entities
 
         public override string ToString()
         {
-            StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.AppendLine($"Order moment {Moment:dd/MM/yyyy HH:mm:ss}");
-            stringBuilder.AppendLine($"Order status: {Status}");
-            stringBuilder.AppendLine($"Client: {Client}");
-            stringBuilder.AppendLine("Order items:");
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Order moment {Moment:dd/MM/yyyy HH:mm:ss}");
+            sb.AppendLine($"Order status: {Status}");
+            sb.AppendLine($"Client: {Client}");
+            sb.AppendLine("Order items:");
             foreach (OrderItem item in OrderItems)
             {
-                stringBuilder.AppendLine($"{item}");
+                sb.AppendLine($"{item}");
             }
-            stringBuilder.AppendLine($"Total price: {Total():c}");
-            return stringBuilder.ToString();
+            sb.AppendLine($"Total price: {Total():c}");
+            return sb.ToString();
         }
     }
 }
